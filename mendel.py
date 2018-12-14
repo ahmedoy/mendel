@@ -65,7 +65,7 @@ while True:
     ran2_2 = random.randint(0,1)#random number to choose the second trait for parent 2
     z2_1 = ALL[0][ran2_1]
     z2_2 = ALL[1][ran2_2]
-    z2 = [z2_1,z2_2]#final chosen traits from parent 1
+    z2 = [z2_1,z2_2]#final chosen traits from parent 2
     print(z2)
 
     
